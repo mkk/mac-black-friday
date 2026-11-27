@@ -1,0 +1,17 @@
+{
+  "name": "Pulsar",
+  "url": "https://pulsarmac.app/en/?utm_source=mkk_bf&utm_medium=deals&utm_campaign=black_friday_2026#early",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "description": "Native macOS system monitor with an incident log and Replay: jump back to the moment your Mac stuttered and see the busiest processes.",
+  "discount": "Launch price $7",
+  "prices": [
+    { "plan": "Pro (2 Macs)", "before": 14, "after": 7 },
+    { "plan": "Supporter (5 Macs)", "before": 29, "after": 14.5 }
+  ],
+  "terms": "One-time purchase, all future updates. Applied at checkout, no code. 7-day Pro trial; free edition stays free. Apple silicon, macOS 14+.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-07",
+  "maker": "purelind",
+  "makerUrl": "https://x.com/purelind"
+}
